@@ -15,7 +15,7 @@ Passionate about Fullstack development, I am a self-driven individual who enjoys
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-aref-5a5912228" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Aref-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeyad-aly-raslan-3355b1275/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Aref-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
